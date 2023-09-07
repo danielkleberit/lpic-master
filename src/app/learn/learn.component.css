@@ -1,0 +1,30 @@
+.answer-container {
+    margin-top: 20px;
+  }
+  
+  .answer-header {
+    color: grün;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .answer-item {
+    background-color: #f0f0f0;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-right: 5px;
+  }
+  
+  .comma {
+    margin-right: 5px;
+  }
+
+
+  .button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2px;
+  }
+
+
+
